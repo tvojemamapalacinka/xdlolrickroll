@@ -1,0 +1,55 @@
+body {
+	background-color: #EEE;
+	font-family: "Comic Sans MS", "Comic Sans", cursive, Arial;
+}
+
+a {
+	text-decoration: none;
+	color: red;
+}
+
+#container{
+	background-color: white;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header {
+	background-color: #feffc5;
+	color: #000000;
+	text-align: center;
+}
+
+#moneyimg {
+	text-align: center;
+	float: left;
+}
+
+#nottruelmao {
+	//text-align: center;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+#join {
+	text-align: center;
+	clear: both;
+	background-color: grey;
+	padding: 20px;
+}
+#copyright {
+	clear: both;
+	padding: 10px;
+	background: #feffc5;
+	text-align: center;
+}
+
+#hidden {
+	color: #feffc5;
+}
+
+#green {
+	color: red;
+}
